@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_media_img_blogs",
+  "info": {
+    "displayName": "img-blog"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

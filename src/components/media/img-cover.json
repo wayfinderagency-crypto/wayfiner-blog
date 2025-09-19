@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_media_img_covers",
+  "info": {
+    "displayName": "img-cover"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
